@@ -1,0 +1,35 @@
+# 🚀 eBay Product Data Pipeline (Automation System)
+
+## 📌 Overview
+
+This project is an automated data pipeline that extracts product data from eBay, processes and cleans the data, and outputs a structured CSV file ready for business use.
+
+The goal is not just scraping — but building a reliable system that produces clean, usable datasets for e-commerce workflows, analysis, and automation.
+
+---
+
+## ⚙️ Features
+
+✔ Extract product data from eBay search pages
+✔ Handles dynamic content using Playwright
+✔ Filters out ads, invalid listings, and noise
+✔ Cleans and normalizes data (price, duplicates, formatting)
+✔ Adds basic category tagging
+✔ Outputs structured CSV file (ready for use)
+
+---
+
+## 🏗️ System Architecture
+
+
+## 🔒 Note
+
+This is a simplified demo version of the system.
+
+Advanced features such as:
+- Anti-bot handling
+- Retry logic
+- Monitoring & alerting
+- Proxy/session management
+
+are not included in this public repository.
